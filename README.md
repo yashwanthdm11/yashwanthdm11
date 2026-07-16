@@ -1,40 +1,26 @@
-# Hi 👋, I'm Yashwanth
+<h1 align="center">Hi 👋, I'm Yashwanth</h1>
 
-🎓 Information Science Engineering Student
+<h3 align="center">
+Information Science Student | Full Stack Developer | AI Enthusiast
+</h3>
 
-💻 Passionate about Web Development, AI, and Full Stack Development.
+## 👨‍💻 About Me
 
-🌱 Currently Learning:
-- React
-- Node.js
-- AI Agents
-- MCP
+- 🌱 I'm currently learning **React, Node.js, AI Agents and MCP**
+- 💻 I'm building **Full Stack Web Applications**
+- 🚀 Interested in **AI, Web Development and Open Source**
+- 📚 Currently improving my **DSA and Backend Development**
+- 🤝 Looking to collaborate on **Open Source Projects**
+- 📫 Reach me at: **your_email@gmail.com**
 
----
+- ## 🛠 Languages and Tools
 
-## 💻 Languages & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker,figma)](https://skillicons.dev)
-
----
-
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker,firebase,figma" />
+</p>
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Yashwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-<!--
-**yashwanthdm11/yashwanthdm11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ fact: ...
 -->
