@@ -27,24 +27,7 @@ Information Science Student | Full Stack Developer | AI Enthusiast
 ### 🧠 Cortex MCP
 AI-powered web application built using the Model Context Protocol (MCP).
 
-🔗 https://github.com/YOUR_USERNAME/Cortex-MCP
+🔗 https://github.com/yashwanthdm11/Cortex-MCP
 
 ---
 
-### 🌐 Portfolio Website
-
-🔗 https://github.com/YOUR_USERNAME/Portfolio
-
----
-
-### 📚 DBMS Notes
-
-🔗 https://github.com/YOUR_USERNAME/DBMS-Notes
-
-## 🚀 Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_NAME&theme=tokyonight)](https://github.com/YOUR_USERNAME/REPOSITORY_NAME)
-
-## 🚀 Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth123&repo=Cortex-MCP&theme=tokyonight)](https://github.com/yashwanth123/Cortex-MCP)
